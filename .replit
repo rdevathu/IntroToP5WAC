@@ -1,2 +1,4 @@
 # DO NOT MODIFY
-entrypoint = "script.js"
+entrypoint = "index.html"
+language = "html"
+run = " "
